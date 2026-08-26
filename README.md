@@ -1,2 +1,3 @@
-# Project-1
-my 1st project
+# MBA Research Project
+Business Intelligence and Analytics
+Impact of BI tool in Manufacturing sector
