@@ -1,28 +1,103 @@
-# MBA Research Project
-Impact of Business Intelligence Tools on Organizational Decision-Making in the Manufacturing Industry.
+# Impact of Business Intelligence Tools on Organizational Decision-Making in the Manufacturing Industry
 
-🚀 **Sharing My MBA Research Project | Business Intelligence & Analytics**
+**MBA Research Project | Business Intelligence & Analytics | 2026**
 
-I’m happy to share my MBA research project:
+## 📌 Project Overview
 
-**“A Study on the Impact of Business Intelligence Tools on Organizational Decision-Making in the Manufacturing Industry.”**
+This research project explores how Business Intelligence (BI) tools influence organizational decision-making in the manufacturing industry.
 
-The research explores how Business Intelligence tools support data-driven decision-making, improve operational efficiency, and help organizations identify business trends.
+The study examines how BI technologies help organizations transform raw business data into meaningful insights, improve operational efficiency, monitor performance, identify business trends, and support data-driven decisions.
 
-As part of this study, I conducted a survey of 50 industry professionals to understand BI adoption, its business impact, and the challenges organizations face during implementation.
+The research is based on responses collected from 50 industry professionals through a structured survey.
 
-**Some key findings:**
-📊 96% of surveyed organizations reported using BI tools.
-📈 75.5% strongly agreed that BI improves decision-making.
-💡 Lack of skilled personnel emerged as the major implementation challenge.
+## 🎯 Research Objectives
 
-This project helped me strengthen my understanding of Business Intelligence, research methodology, data analysis, and the practical role of analytics in manufacturing.
+- Understand the role of Business Intelligence tools in organizational decision-making.
+- Evaluate the impact of BI on operational efficiency, employee productivity, and business performance.
+- Explore the application of SQL, Python, Microsoft Excel, and Power BI in business analytics.
+- Identify the major benefits and challenges associated with BI implementation.
+- Recommend strategies to improve BI adoption and data-driven decision-making.
 
-I'm excited to continue learning and applying data analytics to real-world business challenges.
+## 🛠️ Tools & Technologies
 
-📂 **Explore my project on GitHub:**
-https://github.com/Deepanjali-Haldar/Project-1
+| Tool | Application |
+|---|---|
+| SQL (MySQL) | Data extraction and organization |
+| Python | Data cleaning, preprocessing, EDA, and statistical analysis |
+| Microsoft Excel | Data organization and descriptive analysis |
+| Power BI | Data visualization, dashboards, and reporting |
+| Google Forms | Primary data collection |
 
-I welcome your feedback and suggestions!
+## 📊 Research Methodology
 
-#DataAnalytics #BusinessIntelligence #PowerBI #BusinessAnalytics #ManufacturingAnalytics #DataDrivenDecisionMaking #MBA #LearningJourney
+- **Research Approach:** Mixed-method approach (Quantitative and Qualitative).
+- **Research Design:** Descriptive and Exploratory.
+- **Sample Size:** 50 industry professionals.
+- **Primary Data:** Structured questionnaire distributed through Google Forms.
+- **Secondary Data:** Academic journals, research papers, industry reports, and other relevant publications.
+- **Respondents:** Production Engineers, Managers, Supervisors, Quality Engineers, Business Analysts, Data Analysts, and Operations Professionals.
+
+## 🔍 Key Findings & Insights
+
+The research identified several important findings:
+
+| Key Indicator | Research Finding |
+|---|---:|
+| BI adoption | 94% (47 out of 50 respondents) |
+| Weekly BI usage | 51.06% |
+| Daily BI usage | 40.43% |
+| Organizations using Power BI | 64.6% of BI tool users |
+| Strong agreement on improved decision-making | 75.5% |
+| Respondents recommending BI tools | 94% |
+
+### Major Observations
+
+1. Business Intelligence tools are widely adopted across the surveyed organizations.
+2. Microsoft Power BI emerged as the most commonly used BI platform.
+3. BI tools contribute positively to organizational decision-making and operational efficiency.
+4. Regular BI usage highlights the importance of dashboards and reporting in business operations.
+5. Lack of skilled professionals emerged as the biggest challenge in BI implementation.
+
+## 💡 Business Recommendations
+
+Based on the research findings, the study recommends:
+
+- Improving data accuracy and consistency.
+- Investing in employee training and BI skill development.
+- Enhancing integration between organizational information systems.
+- Strengthening data security and governance.
+- Encouraging real-time reporting and advanced analytics.
+- Adopting cost-effective BI solutions, particularly for small and medium-sized enterprises.
+
+## 📈 Project Outcome
+
+This research strengthened my understanding of Business Intelligence adoption and its practical impact on manufacturing organizations.
+
+It also helped me explore the relationship between data analytics, business performance, operational efficiency, and management decision-making.
+
+The project enhanced my knowledge of research methodology, data interpretation, statistical analysis, and the role of analytical tools in solving business challenges.
+
+## 🚀 Future Scope
+
+Future research can explore:
+
+- AI and Machine Learning integration with Business Intelligence.
+- Predictive analytics in manufacturing operations.
+- Cloud-based Business Intelligence solutions.
+- BI adoption across multiple industries.
+- Long-term impact of analytics on organizational performance.
+
+## 👩‍💻 Author
+
+**Deepanjali Haldar**
+
+MBA – Business Intelligence & Analytics  
+Production Engineering | Data Analytics | Business Intelligence
+
+**Areas of Interest:** Data Analytics, Business Analytics, Product Analytics, and Business Intelligence.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/deepanjalihaldar)
+
+---
+
+*This project was completed as part of my MBA research work at Jain Online (Deemed-to-be University).* 
